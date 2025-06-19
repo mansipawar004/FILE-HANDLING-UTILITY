@@ -23,3 +23,13 @@ Allows the user to input text and either append it to the existing file or overw
 3. Modify File:
 Searches the file for a specific word or phrase and replaces it with new text. This is done by reading the file content into memory, making changes, and then writing the updated content back to the file.
 This utility provides hands-on experience with Java file operations and is ideal for understanding how to manage file input/output efficiently in Java.
+
+OUTPUT :
+![Image](https://github.com/user-attachments/assets/226e9433-3e9f-41db-bdab-2f6fb117b034)
+
+![Image](https://github.com/user-attachments/assets/410cba80-7103-4b15-91c2-c0eca7d84129)
+
+![Image](https://github.com/user-attachments/assets/db7cf222-664a-4cc3-9090-31db2730dc8d)
+
+
+
